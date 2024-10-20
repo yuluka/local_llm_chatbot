@@ -57,8 +57,6 @@ To use this code you'll need to follow these steps:
     python ./src/app.py
     ```
 
-    to run the script.
-
     Once the script is running, you'll be prompted to choose a model to interact with. Wait for the model to load on your GPU or CPU, and then start the conversation.
 
 
